@@ -1,0 +1,16 @@
+h1 {
+  margin-bottom: 50px;
+  position: absolute;
+}
+body {
+  display: flex;
+  justify-content: center;
+}
+
+#board {
+  position: relative;
+  margin-top: 100px;
+  width: 200px;
+  height: 200px;
+  border: solid 2px;
+}
